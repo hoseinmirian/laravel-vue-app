@@ -9,6 +9,7 @@
 
 ## About app
 
+App is deployed @ http://youtube.yeskaro.com/
 In this app I am using the laravel and Vue with webpack mix. Its super cool to merge both apps in one, my app is working as single page application with Vuejs, and Laravel is use to manage all APIs needed, also i use passport for tokens
 
 ## Learning Laravel
